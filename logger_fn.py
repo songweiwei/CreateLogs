@@ -38,6 +38,8 @@ if __name__ == '__main__':
     logger_info.info("修改了master远程")
     
 
+    logger_info.info("增加了dev")
+
 
 
 
