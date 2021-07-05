@@ -35,6 +35,8 @@ if __name__ == '__main__':
     logger_info=logger_fn("info","logs/info/info-{}".format(now))
     logger_info.info("其他信息")
 
+    logger_info.info("添加其他信息")
+
 
 
 
