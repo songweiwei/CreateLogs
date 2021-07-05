@@ -38,7 +38,7 @@ if __name__ == '__main__':
     logger_info.info("添加其他信息")
 
 
-    logger_info.info("我增加了dev分支")
+    logger_info.info("我增加了dev分值")
 
 
 
